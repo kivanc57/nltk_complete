@@ -1,6 +1,6 @@
-# NLTK Complete 🗣️
+# NLTK Complete 
 
-## Overview
+## 👀 Overview
 
 This repository is a hands-on implementation of *Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit* by Steven Bird, Ewan Klein, and Edward Loper. It provides practical applications of the book’s examples, covering key NLP concepts such as tokenization, frequency distribution analysis, and syntactic parsing.
 
@@ -42,7 +42,7 @@ A core focus is the NLTK library, which offers extensive NLP functionalities, in
 ⭐ **11-managing_linguistic_data.ipynb**  
     Handling linguistic data and corpora in NLP applications.
 
-## Prerequisites
+## ✔️ Prerequisites
 To run these notebooks, ensure you have the following installed:
 - Python 3.x
 - Jupyter Notebook
@@ -51,7 +51,7 @@ To run these notebooks, ensure you have the following installed:
 - Pandas
 - NumPy
 
-## Usage
+## 🔧 Usage
 1. Clone the repository:
    ```sh
    git clone https://github.com/kivanc57/nltk_complete.git
